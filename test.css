@@ -1,0 +1,12 @@
+div {
+    height: 712px;
+    width: 712px;
+    background: pink;
+    margin: auto;
+}
+
+input {
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+} 
